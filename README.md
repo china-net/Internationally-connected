@@ -1,10 +1,12 @@
 <div align="center">
 
 <h1>China Internationally-connected</h1>
-中国的国际网络互联状态介绍<br><br>
+中国的国际网络互联状态介绍</br></br>
+
 [**速查表格**](./oneman.md) | [**精简版**](./mjj.md)
 
 </div>
+
 
 
 ## 部分简写对照
