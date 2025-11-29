@@ -7,6 +7,8 @@
 
 </div>
 
+> [!NOTE]  
+> 我们使用 PandaWiki 搭建了一个更好用的wiki站点，更方便好用，还可以询问ai，欢迎体验: [Wiki](https://wiki.mmeiblog.cn/)
 
 
 ## 部分简写对照
